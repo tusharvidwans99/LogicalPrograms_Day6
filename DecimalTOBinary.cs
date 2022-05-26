@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Logical_Progams_Day6
 {
+    /// <summary>
+    /// This Program is used to Convert Decimal number into Binary digits.
+    /// </summary>
     public class DecimalTOBinary
     {
         public static void GetDecimal()
