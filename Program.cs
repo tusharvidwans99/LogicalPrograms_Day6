@@ -19,7 +19,8 @@ namespace Logical_Programs_Day6
             //ReverseNumber.reverseTheNumber();
             //Coupons.FindNewCoupon();
             //Simulate_StopWatch.Start();
-            VendingMachine.MinimumNumberofNotes();
+            //VendingMachine.MinimumNumberofNotes();
+            Logical_Progams_Day6.DayOfWeek.getinput();
         }
     }
 }
