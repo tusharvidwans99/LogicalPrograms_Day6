@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Logical_Progams_Day6
 {
+    /// <summary>
+    /// This Program will Convert Decimal to Binary then swap the nibbles of that binary,
+    /// after that convert it to the decimal againg and check whether it is Power of 2 or Not.
+    /// </summary>
     public class Decimal_Binary_Swap
     {
 
