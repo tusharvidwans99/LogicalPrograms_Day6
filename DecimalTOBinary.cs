@@ -19,7 +19,7 @@ namespace Logical_Progams_Day6
         public static int[] getBinary(int Decimal)
         {
             int i;
-            int[] a = new int[10];
+            int[] a = new int[8];
             
             for (i = 0; Decimal > 0; i++)
             {
@@ -34,6 +34,7 @@ namespace Logical_Progams_Day6
         {
             for (int i = myArray.GetLowerBound(0); i <= myArray.GetUpperBound(0); i++)
                 Console.Write(myArray[i]);
+            Console.WriteLine();
         }
     }
 }
