@@ -1,4 +1,6 @@
-﻿namespace Logical_Programs_Day6
+﻿using Logical_Progams_Day6;
+
+namespace Logical_Programs_Day6
 {
     /// <summary>
     /// This is the Main driver class which will run other classes which holds the logic and methods.
@@ -13,7 +15,8 @@
 
             //Fibonacci.Fibo();
             //PerfectNumber.findPerfectNumber();
-            CheckPrime.isPrime();
+            //CheckPrime.isPrime();
+            ReverseNumber.reverseTheNumber();
 
         }
     }
