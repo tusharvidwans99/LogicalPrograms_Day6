@@ -18,7 +18,8 @@ namespace Logical_Programs_Day6
             //CheckPrime.isPrime();
             //ReverseNumber.reverseTheNumber();
             //Coupons.FindNewCoupon();
-            Simulate_StopWatch.Start();
+            //Simulate_StopWatch.Start();
+            VendingMachine.MinimumNumberofNotes();
         }
     }
 }
