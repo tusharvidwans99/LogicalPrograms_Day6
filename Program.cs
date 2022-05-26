@@ -17,7 +17,8 @@ namespace Logical_Programs_Day6
             //PerfectNumber.findPerfectNumber();
             //CheckPrime.isPrime();
             //ReverseNumber.reverseTheNumber();
-            Coupons.FindNewCoupon();
+            //Coupons.FindNewCoupon();
+            Simulate_StopWatch.Start();
         }
     }
 }
