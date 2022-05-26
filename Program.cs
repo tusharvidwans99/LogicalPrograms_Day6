@@ -11,6 +11,9 @@
 
             Console.WriteLine("Welcome to the Logical Programs, in this we are going to write multiple Logical Programs");
 
+            Fibonacci.Fibo();
+
+
         }
     }
 }
