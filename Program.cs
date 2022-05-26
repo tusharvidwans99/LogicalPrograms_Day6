@@ -21,7 +21,8 @@ namespace Logical_Programs_Day6
             //Simulate_StopWatch.Start();
             //VendingMachine.MinimumNumberofNotes();
             //Logical_Progams_Day6.DayOfWeek.getinput();
-            TempratureUnit.ChangeUnit();
+            //TempratureUnit.ChangeUnit();
+            MonthlyPay.calculateMonthlyPayment();
         }
     }
 }
