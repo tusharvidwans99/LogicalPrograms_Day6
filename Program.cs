@@ -23,7 +23,8 @@ namespace Logical_Programs_Day6
             //Logical_Progams_Day6.DayOfWeek.getinput();
             //TempratureUnit.ChangeUnit();
             //MonthlyPay.calculateMonthlyPayment();
-            DecimalTOBinary.GetDecimal();
+            //DecimalTOBinary.GetDecimal();
+            Decimal_Binary_Swap.CompareBinaryDecimal();
         }
     }
 }
