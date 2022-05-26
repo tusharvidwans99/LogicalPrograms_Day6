@@ -1,6 +1,10 @@
 ﻿namespace Logical_Programs_Day6
 {
+    /// <summary>
+    /// This is the Main driver class which will run other classes which holds the logic and methods.
+    /// </summary>
     public class Program
+
     {
         public static void Main(string[] args)
         {
