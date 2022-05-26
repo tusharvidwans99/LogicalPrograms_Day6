@@ -16,8 +16,8 @@ namespace Logical_Programs_Day6
             //Fibonacci.Fibo();
             //PerfectNumber.findPerfectNumber();
             //CheckPrime.isPrime();
-            ReverseNumber.reverseTheNumber();
-
+            //ReverseNumber.reverseTheNumber();
+            Coupons.FindNewCoupon();
         }
     }
 }
