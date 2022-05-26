@@ -20,7 +20,8 @@ namespace Logical_Programs_Day6
             //Coupons.FindNewCoupon();
             //Simulate_StopWatch.Start();
             //VendingMachine.MinimumNumberofNotes();
-            Logical_Progams_Day6.DayOfWeek.getinput();
+            //Logical_Progams_Day6.DayOfWeek.getinput();
+            TempratureUnit.ChangeUnit();
         }
     }
 }
